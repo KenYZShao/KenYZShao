@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KenYZShao
+- 👋 Hi, I’m @Ken
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Master in Computer Science
 - 💞️ I’m looking to collaborate on Delay Tolerant Networking
