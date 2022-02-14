@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ken
 - 👀 I’m interested in Networking or Machine Learning
-- 🌱 I’m currently learning Master in Computer Science
+- 🌱 I’m currently studying Master in Computer Science
 - 💞️ I’m looking to collaborate on Delay Tolerant Networking
 - 📫 How to reach me? 
 - Added my Linkedin "Ken Yuzhou Shao", or click below link:
