@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Master in Computer Science
 - 💞️ I’m looking to collaborate on Machine Laearning or Delay Tolerant Networking
 - 📫 How to reach me? 
-- Added my Linkedin "Ken Yuzhou Shao", or click below link
+- Added my Linkedin "Ken Yuzhou Shao", or click below link:
 - https://www.linkedin.com/in/ken-yuzhou-shao-805571181/
 - And also welcome to access my Youtube Channel for watching my projects demo：
 https://www.youtube.com/watch?v=_p-dO8zYSdQ&list=PLbgw7bMt_VYRfL4tCj3oRd__eRsxIY9yo
