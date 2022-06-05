@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ken
+- 👋 Hi, I’m @Ken.
 - 👀 I’m interested in Networking and Machine Learning
 - 🌱 I’m currently studying Master in Computer Science
 - 💞️ I’m looking to collaborate on Machine Laearning or Delay Tolerant Networking
