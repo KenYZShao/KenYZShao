@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ken
 - 👀 I’m interested in Networking and Computer Graphics
-- 🌱 I’m currently studying Master in Computer Science.
-- 💞️ I’m looking to collaborate on VR or Networking.
+- 🌱 I’m currently developing projects in Unreal Engine 5
+- 💞️ I’m looking to collaborate on VR Gaming or Networking.
 - 📫 How to reach me? 
 - Added my Linkedin "Ken Yuzhou Shao", or click below link:
 - https://www.linkedin.com/in/ken-yuzhou-shao-805571181/
