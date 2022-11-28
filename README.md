@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ken
 - 👀 I’m interested in Networking and Computer Graphics.
-- 🌱 I’m currently developing projects in Unreal Engine 5.
+- 🌱 I’m currently developing projects in Unreal Engine 5
 - 💞️ I’m looking to collaborate on VR Gaming or Networking.
 - 📫 How to reach me? 
 - Added my Linkedin "Ken Yuzhou Shao", or click below link
