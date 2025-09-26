@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ken
-- 👀 I’m interested in Game Development and Youtube Content Creating
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently developing projects in Unity
 - 📫 How to reach me? 
 - Email: Ken@jacobsiler.com
