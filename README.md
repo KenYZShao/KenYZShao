@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently developing projects in Unity
 - 📫 How to reach me? 
-- Email: Ken@jacobsiler.com
+- Email: Ken.shao@liqentech.com
 
 <!---
 KenYZShao/KenYZShao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
